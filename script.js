@@ -215,3 +215,5 @@ document.getElementById('btn-reset').addEventListener('click', () => {
 });
 
 updateCardVisual();
+
+// v2: live card number preview on visual card widget
